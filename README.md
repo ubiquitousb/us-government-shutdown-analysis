@@ -32,9 +32,9 @@ After merging and cleaning, each row in the data represents a U.S. House distric
 
 ## 💡 Hypothesis
 
-The central question is formalized into a testable hypothesis.
+The central question as a testable hypothesis.
 
-* **Test Statistic:** The **difference in means** of the `vote_share_swing` for the President's party.
+* **Test Statistic:** The **difference in means** of the `vote_share_swing` for the sitting President's party.
 * **Null Hypothesis:** There is no significant difference in the mean vote share swing for the President's party between election cycles preceded by a government shutdown and those that were not. Any observed difference is due to random chance.
 * **Alternative Hypothesis:** Election cycles preceded by a government shutdown will show a **lower** mean vote share swing for the President's party, indicating a political "cost" for the shutdown.
 
