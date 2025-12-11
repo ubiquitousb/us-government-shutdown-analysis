@@ -1,0 +1,60 @@
+President,Politics,Vice Presidents,Service Begin,Service End,Congress
+George Washington,Federalist,John Adams,1789,1797,"1,2,3,4"
+John Adams,Federalist,Thomas Jefferson,1797,1801,"5,6"
+(a)Thomas Jefferson,Republican,Aaron Burr,1801,1805,"7,8"
+Thomas Jefferson,Republican,George Clinton,1805,1809,"9,10"
+James Madison,Republican,"George Clinton (Died April 20, 1812)",1809,1813,"11,12"
+James Madison,Republican,"Elbridge Gerry (Died November 23, 1814)",1813,1817,"13,14"
+(b)James Monroe,Republican,Daniel D. Tompkins,1817,1825,"15,16, 17,18"
+(b)John Quincy Adams,Nat'l Rep.,John C. Calhoun,1825,1829,"19,20"
+Andrew Jackson,Democrat,"John C. Calhoun (Resigned Dec. 28, 1832 to become U.S. Senator)",1829,1833,"21,22"
+Andrew Jackson,Democrat,Martin Van Buren,1833,1837,"23,24"
+Martin Van Buren,Democrat,Richard M. Johnson,1837,1841,"25,26"
+(c)William HenryHarrison,Whig,John Tyler,1841,1841,27
+John Tyler,Whig,,1841,1845,"27,28"
+James K. Polk,Democrat,George M. Dallas,1845,1849,"29,30"
+(d)Zachary Taylor,Whig,Millard Fillmore,1849,1850,31
+Millard Filmore,Whig,,1850,1853,"31,32"
+Franklin Pierce,Democrat,"William R. King (Died April 18, 1853)",1853,1857,"33,34"
+James Buchanan,Democrat,John C. Breckenridge,1857,1861,"35,36"
+Abraham Lincoln,Republican,Hannibal Hamlin,1861,1865,"37,38"
+(e)Abraham Lincoln,Republican,Andrew Johnson,1865,1865,39
+Andrew Johnson,Democrat,,1865,1869,"39,40"
+Ulysses S. Grant,Republican,Schuyler Colfax,1869,1873,"41,42"
+Ulysses S. Grant,Republican,"Henry Wilson (Died November 22, 1875)",1873,1877,"43,44"
+Rutherford B. Hayes,Republican,William A. Wheeler,1877,1881,"45,46"
+(f)James A. Garfield,Republican,Chester A. Arthur,1881,1881,47
+Chester A. Arthur,Republican,,1881,1885,"47,48"
+Grover Cleveland,Democrat,"Thomas A. Hendricks (Died Nov. 25, 1885)",1885,1889,"49,50"
+Benjamin Harrison,Republican,Levi P. Morton,1889,1893,"51,52"
+Grover Cleveland,Democrat,Adlai E. Stevenson,1893,1897,"53,54"
+William McKinley,Republican,"Garret A. Hobart (Died Nov. 21, 1889)",1897,1901,"55,56"
+(g)William McKinley,Republican,Theodore Roosevelt,1901,1901,57
+Theodore Roosevelt,Republican,,1901,1905,"57,58"
+Theodore Roosevelt,Republican,Charles W. Fairbanks,1905,1909,"59,60"
+William H. Taft,Republican,"James S. Sherman (Died Oct. 30, 1912)",1909,1913,"61,62"
+Woodrow Wilson,Democrat,Thomas R. Marshall,1913,1921,"63,64, 65,66"
+(h)Warren G. Harding,Republican,Calvin Coolidge,1921,1923,67
+Calvin Coolidge,Republican,,1923,1925,68
+Calvin Coolidge,Republican,Charles G. Dawes,1925,1929,"69,70"
+Herbert Hoover,Republican,Charles Curtis,1929,1933,"71,72"
+(i)Franklin D. Roosevelt,Democrat,John N. Garner,1933,1941,"73,74, 75,76"
+Franklin D. Roosevelt,Democrat,Henry A. Wallace,1941,1945,"77,78"
+(j)Franklin D. Roosevelt,Democrat,Harry S. Truman,1945,1945,79
+Harry S. Truman,Democrat,,1945,1949,"79,80"
+Harry S. Truman,Democrat,Alben W. Barkley,1949,1953,"81,82"
+Dwight D. Eisenhower,Republican,Richard M. Nixon,1953,1961,"83,84, 85,86"
+(k)John F. Kennedy,Democrat,Lyndon B. Johnson,1961,1963,"87,88"
+Lyndon B. Johnson,Democrat,,1963,1965,88
+Lyndon B. Johnson,Democrat,Hubert H. Humphrey,1965,1969,"89,90"
+(l)Richard M. Nixon,Republican,Sprio T. Agnew,1969,1974,"91,92,93"
+(m)Gerald R. Ford,Republican,Nelson A. Rockefeller,1974,1977,"93,94"
+Jimmy Carter,Democrat,Walter Mondale,1977,1981,"95,96"
+Ronald Reagan,Republican,George Bush,1981,1989,"97,98,99, 100"
+George Bush,Republican,J. Danforth Quayle,1989,1993,"101,102"
+Bill Clinton,Democrat,Al Gore,1993,2001,"103, 104, 105, 106"
+George W. Bush,Republican,Richard B. Cheney,2001,2009,"107, 108, 109, 110"
+Barack Obama,Democrat,Joe Biden,2009,2017,"111, 112, 113, 114"
+Donald J. Trump,Republican,Mike Pence,2017,2021,"115, 116"
+"Joseph R. Biden, Jr.",Democrat,Kamala Harris,2021,2025,"117, 118"
+Donald J. Trump,Republican,JD Vance,2025,,119
